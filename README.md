@@ -1,2 +1,2 @@
 # TAMAGOTCHI
-O jogo que vai muda sua vida
+O jogo que vai mudar sua vida
